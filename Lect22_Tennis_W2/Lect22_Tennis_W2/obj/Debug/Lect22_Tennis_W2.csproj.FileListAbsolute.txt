@@ -1,0 +1,10 @@
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\bin\Debug\Lect22_Tennis_W2.exe.config
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\bin\Debug\Lect22_Tennis_W2.exe
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\bin\Debug\Lect22_Tennis_W2.pdb
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\obj\Debug\Lect22_Tennis_W2.csprojAssemblyReference.cache
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\obj\Debug\Lect22_Tennis_W2.PlayArea.resources
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\obj\Debug\Lect22_Tennis_W2.Properties.Resources.resources
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\obj\Debug\Lect22_Tennis_W2.csproj.GenerateResource.cache
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\obj\Debug\Lect22_Tennis_W2.csproj.CoreCompileInputs.cache
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\obj\Debug\Lect22_Tennis_W2.exe
+C:\Users\Arslan\source\repos\Lect22_Tennis_W2\Lect22_Tennis_W2\obj\Debug\Lect22_Tennis_W2.pdb
